@@ -1,9 +1,9 @@
 # Rome-Restaurants AI Chatbot System
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-0.1.0-green.svg)](https://www.langchain.com/)
-[![Gemini](https://img.shields.io/badge/Google%20Gemini-API-yellow.svg)](https://ai.google.dev/)
-![Gmail API](https://img.shields.io/badge/Gmail_API-1.0-red?logo=gmail&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1.0-00A67E?logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-API-4285F4?logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![Gmail API](https://img.shields.io/badge/Gmail_API-1.0-EA4335?logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
 
 An intelligent chatbot system for Rome-Restaurants e-commerce platform, featuring multiple interfaces (CLI, web, and email auto-responder) powered by Google Gemini AI.
 
@@ -30,7 +30,7 @@ An intelligent chatbot system for Rome-Restaurants e-commerce platform, featurin
 - **Web Interface**:
   - Streamlit for chatbot UI
 - **Data**:
-  - Ecommerce FAQ Chatbot dataset ([Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset))
+  - ([Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset))
   - Store information context
 - **Environment**:
   - dotenv for configuration
@@ -88,4 +88,4 @@ rome-restaurants-chatbot/
    ```
 
 ## Dataset
-The system uses the Ecommerce-FAQ-Chatbot-Dataset from Kaggle ([Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)), enhanced with custom store-specific information.
+The system uses the ([Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)), enhanced with custom store-specific information.
