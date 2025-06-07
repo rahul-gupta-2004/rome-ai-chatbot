@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rome-ai-chatbot.streamlit.app/)
 [![Gmail_API](https://img.shields.io/badge/Gmail_API-EA4335?logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
 
 An intelligent chatbot system for Rome-Restaurants e-commerce platform, featuring multiple interfaces (CLI, web, and email auto-responder) powered by Google Gemini AI.
@@ -11,7 +12,7 @@ An intelligent chatbot system for Rome-Restaurants e-commerce platform, featurin
 
 - **Multi-interface Support**:
   - Interactive CLI chatbot
-  - Streamlit web interface
+  - [Streamlit web interface](https://rome-ai-chatbot.streamlit.app/) (live deployment)
   - Gmail auto-responder service
 - **AI-Powered Responses** using Google Gemini 1.5 Flash
 - **FAQ Knowledge Base** integration
@@ -71,6 +72,13 @@ rome-restaurants-chatbot/
 3. Set up environment variables:
    - Create `.env` file from `.env.example`
    - Add your Gemini API key and Gmail credentials
+
+## Deployment
+
+A live version of the web interface is available on Streamlit Cloud:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rome-ai-chatbot.streamlit.app/)
+https://rome-ai-chatbot.streamlit.app/
 
 ## Usage
 
