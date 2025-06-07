@@ -37,21 +37,16 @@ An intelligent chatbot system for Rome-Restaurants e-commerce platform, featurin
   - OAuth 2.0 for Gmail API
 
 ## Repository Structure
+```
 rome-restaurants-chatbot/
-
-├── chatbot.py # Core chatbot logic
-
-├── chatbot_website.py # Streamlit web interface
-
-├── main.py # Email auto-responder
-
-├── send_mail.py # Email sending service
-
-├── gmail_notifier.py # Email monitoring service
-
-├── .env.example # Environment variables template
-
-└── requirements.txt # Python dependencies
+├── chatbot.py              # Core chatbot logic
+├── chatbot_website.py      # Streamlit web interface
+├── main.py                 # Email auto-responder
+├── send_mail.py            # Email sending service
+├── gmail_notifier.py       # Email monitoring service
+├── .env.example            # Environment variables template
+└── requirements.txt        # Python dependencies
+```
 
 ## Prerequisites
 
