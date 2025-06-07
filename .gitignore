@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore configuration files
+client_secret.json
+process_ids.pickle
+token.json
+token.pickle
+
+# Ignore Python cache files
+__pycache__/
