@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.1.0-green.svg)](https://www.langchain.com/)
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-API-yellow.svg)](https://ai.google.dev/)
+![Gmail API](https://img.shields.io/badge/Gmail_API-1.0-red?logo=gmail&logoColor=white)
 
 An intelligent chatbot system for Rome-Restaurants e-commerce platform, featuring multiple interfaces (CLI, web, and email auto-responder) powered by Google Gemini AI.
 
@@ -66,8 +67,8 @@ rome-restaurants-chatbot/
    ```
    
 3. Set up environment variables:
-   Create `.env` file from `.env.example`
-   Add your Gemini API key and Gmail credentials
+   - Create `.env` file from `.env.example`
+   - Add your Gemini API key and Gmail credentials
 
 ## Usage
 
