@@ -1,9 +1,9 @@
 # Rome-Restaurants AI Chatbot System
 
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-0.1.0-00A67E?logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-API-4285F4?logo=google-gemini&logoColor=white)](https://ai.google.dev/)
-[![Gmail API](https://img.shields.io/badge/Gmail_API-1.0-EA4335?logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
+[![Python](https://img.shields.io/badge/Python-3.13.3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.3.25-00A67E?logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-0.8.5-4285F4?logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![Gmail_API](https://img.shields.io/badge/Gmail_API-2.169.0-EA4335?logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
 
 An intelligent chatbot system for Rome-Restaurants e-commerce platform, featuring multiple interfaces (CLI, web, and email auto-responder) powered by Google Gemini AI.
 
