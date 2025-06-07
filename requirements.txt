@@ -1,0 +1,14 @@
+# Core dependencies
+python-dotenv==1.1.0
+langchain==0.3.25
+langchain-google-genai==2.1.5
+google-generativeai==0.8.5
+
+# Web interface
+streamlit==1.44.1
+
+# Gmail API integration
+google-api-python-client==2.169.0
+google-auth==2.39.0
+google-auth-oauthlib==1.2.2
+google-auth-httplib2==0.2.0
