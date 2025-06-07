@@ -38,12 +38,19 @@ An intelligent chatbot system for Rome-Restaurants e-commerce platform, featurin
 
 ## Repository Structure
 rome-restaurants-chatbot/
+
 ├── chatbot.py # Core chatbot logic
+
 ├── chatbot_website.py # Streamlit web interface
+
 ├── main.py # Email auto-responder
+
 ├── send_mail.py # Email sending service
+
 ├── gmail_notifier.py # Email monitoring service
+
 ├── .env.example # Environment variables template
+
 └── requirements.txt # Python dependencies
 
 ## Prerequisites
@@ -88,4 +95,4 @@ rome-restaurants-chatbot/
    ```
 
 ## Dataset
-The system uses the [Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset), enhanced with custom store-specific information.
+The system uses the [Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset) , enhanced with custom store-specific information.
