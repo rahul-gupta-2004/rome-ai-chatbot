@@ -30,7 +30,7 @@ An intelligent chatbot system for Rome-Restaurants e-commerce platform, featurin
 - **Web Interface**:
   - Streamlit for chatbot UI
 - **Data**:
-  - ([Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset))
+  - [Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)
   - Store information context
 - **Environment**:
   - dotenv for configuration
@@ -88,4 +88,4 @@ rome-restaurants-chatbot/
    ```
 
 ## Dataset
-The system uses the ([Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)), enhanced with custom store-specific information.
+The system uses the [Ecommerce-FAQ-Chatbot-Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset), enhanced with custom store-specific information.
