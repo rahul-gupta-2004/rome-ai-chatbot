@@ -77,8 +77,7 @@ rome-restaurants-chatbot/
 
 A live version of the web interface is available on Streamlit Cloud:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rome-ai-chatbot.streamlit.app/)
-https://rome-ai-chatbot.streamlit.app/
+[Try the Rome Restaurant Chatbot Live](https://rome-ai-chatbot.streamlit.app/)
 
 ## Usage
 
